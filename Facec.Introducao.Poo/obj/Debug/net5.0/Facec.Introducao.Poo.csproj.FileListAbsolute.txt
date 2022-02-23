@@ -1,0 +1,15 @@
+C:\Users\juliano.maciel\source\repos\Facec.Introducao.Poo\Facec.Introducao.Poo\bin\Debug\net5.0\Facec.Introducao.Poo.exe
+C:\Users\juliano.maciel\source\repos\Facec.Introducao.Poo\Facec.Introducao.Poo\bin\Debug\net5.0\Facec.Introducao.Poo.deps.json
+C:\Users\juliano.maciel\source\repos\Facec.Introducao.Poo\Facec.Introducao.Poo\bin\Debug\net5.0\Facec.Introducao.Poo.runtimeconfig.json
+C:\Users\juliano.maciel\source\repos\Facec.Introducao.Poo\Facec.Introducao.Poo\bin\Debug\net5.0\Facec.Introducao.Poo.runtimeconfig.dev.json
+C:\Users\juliano.maciel\source\repos\Facec.Introducao.Poo\Facec.Introducao.Poo\bin\Debug\net5.0\Facec.Introducao.Poo.dll
+C:\Users\juliano.maciel\source\repos\Facec.Introducao.Poo\Facec.Introducao.Poo\bin\Debug\net5.0\ref\Facec.Introducao.Poo.dll
+C:\Users\juliano.maciel\source\repos\Facec.Introducao.Poo\Facec.Introducao.Poo\bin\Debug\net5.0\Facec.Introducao.Poo.pdb
+C:\Users\juliano.maciel\source\repos\Facec.Introducao.Poo\Facec.Introducao.Poo\obj\Debug\net5.0\Facec.Introducao.Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano.maciel\source\repos\Facec.Introducao.Poo\Facec.Introducao.Poo\obj\Debug\net5.0\Facec.Introducao.Poo.AssemblyInfoInputs.cache
+C:\Users\juliano.maciel\source\repos\Facec.Introducao.Poo\Facec.Introducao.Poo\obj\Debug\net5.0\Facec.Introducao.Poo.AssemblyInfo.cs
+C:\Users\juliano.maciel\source\repos\Facec.Introducao.Poo\Facec.Introducao.Poo\obj\Debug\net5.0\Facec.Introducao.Poo.csproj.CoreCompileInputs.cache
+C:\Users\juliano.maciel\source\repos\Facec.Introducao.Poo\Facec.Introducao.Poo\obj\Debug\net5.0\Facec.Introducao.Poo.dll
+C:\Users\juliano.maciel\source\repos\Facec.Introducao.Poo\Facec.Introducao.Poo\obj\Debug\net5.0\ref\Facec.Introducao.Poo.dll
+C:\Users\juliano.maciel\source\repos\Facec.Introducao.Poo\Facec.Introducao.Poo\obj\Debug\net5.0\Facec.Introducao.Poo.pdb
+C:\Users\juliano.maciel\source\repos\Facec.Introducao.Poo\Facec.Introducao.Poo\obj\Debug\net5.0\Facec.Introducao.Poo.genruntimeconfig.cache
